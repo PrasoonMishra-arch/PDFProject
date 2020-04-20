@@ -45,6 +45,11 @@
       <version>7.26.0.Final-redhat-00005</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.jbpm.contrib</groupId>
+      <artifactId>pdf-workitem</artifactId>
+      <version>7.26.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
